@@ -16,7 +16,7 @@ Contiene información actualizada sobre ataques de ciberseguridad, recopilada de
 
 ### <span style="color:blue">4. Deportes y Fútbol</span>  
 Análisis de datos de jugadores de Futbol, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
-🔗 [Dataset: FUTBOL Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
+🔗 [Dataset: Futbol Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
 
 ### <span style="color:blue">5. Noticias y Desastres Naturales (Incendios)</span>  
 Dataset sobre incendios en California, con datos históricos y visualizaciones sobre su impacto.  
