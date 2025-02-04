@@ -1,6 +1,10 @@
 # Proyecto_Final_AD2025
 
+---
+
 ## <span style="color:blue">Contenido</span>
+
+---
 
 ### <span style="color:blue">1. Tráfico e Informática</span>  
 Contiene datos recopilados sobre accidentes de tráfico a nivel global. Se incluyen los scripts para la transferencia de datos y las visualizaciones respectivas.  
