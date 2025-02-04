@@ -1,22 +1,23 @@
 # Proyecto_Final_AD2025
 
-# Contenido
-# 1. Tráfico e Informática
-Contiene datos recopilados sobre accidentes de tráfico a nivel global. Se incluyen los scripts para la transferencia de datos y las visualizaciones respectivas.
-🔗 Dataset: Global Road Accidents
+## <span style="color:blue">Contenido</span>
 
-# 2. Arte y Proyectos en Kickstarter
-Análisis de proyectos de Kickstarter en diferentes categorías, con datos sobre su éxito y financiamiento. Se incluyen los scripts de procesamiento y visualización.
-🔗 Dataset: Kickstarter Projects
+### <span style="color:blue">1. Tráfico e Informática</span>  
+Contiene datos recopilados sobre accidentes de tráfico a nivel global. Se incluyen los scripts para la transferencia de datos y las visualizaciones respectivas.  
+🔗 [Dataset: Global Road Accidents](https://www.kaggle.com/datasets/ankushpanday1/global-road-accidents-dataset)  
 
-# 3. Ciberseguridad y Noticias Mundiales
-Contiene información actualizada sobre ataques de ciberseguridad, recopilada de diversas fuentes. Se presentan visualizaciones y análisis.
-🔗 Dataset: Cybersecurity Attacks
+### <span style="color:blue">2. Arte y Proyectos en Kickstarter</span>  
+Análisis de proyectos de Kickstarter en diferentes categorías, con datos sobre su éxito y financiamiento. Se incluyen los scripts de procesamiento y visualización.  
+🔗 [Dataset: Kickstarter Projects](https://www.kaggle.com/datasets/kemical/kickstarter-projects)  
 
-# 4. Deportes y Fútbol
-Análisis de datos de jugadores de FIFA, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.
-🔗 Dataset: FIFA Players
+### <span style="color:blue">3. Ciberseguridad y Noticias Mundiales</span>  
+Contiene información actualizada sobre ataques de ciberseguridad, recopilada de diversas fuentes. Se presentan visualizaciones y análisis.  
+🔗 [Dataset: Cybersecurity Attacks](https://www.kaggle.com/search?q=updated+cybersecurity+attacks)  
 
-# 5. Noticias y Desastres Naturales (Incendios)
-Dataset sobre incendios en California, con datos históricos y visualizaciones sobre su impacto.
-🔗 Dataset: California Wildfire Data
+### <span style="color:blue">4. Deportes y Fútbol</span>  
+Análisis de datos de jugadores de FIFA, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
+🔗 [Dataset: FIFA Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
+
+### <span style="color:blue">5. Noticias y Desastres Naturales (Incendios)</span>  
+Dataset sobre incendios en California, con datos históricos y visualizaciones sobre su impacto.  
+🔗 [Dataset: California Wildfire Data](https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data)  
