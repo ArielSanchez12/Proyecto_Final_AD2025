@@ -19,12 +19,25 @@ Contiene información actualizada sobre ataques de ciberseguridad, recopilada de
 🔗 [Dataset: Cybersecurity Attacks](https://www.kaggle.com/search?q=updated+cybersecurity+attacks)  
 
 ### <span style="color:blue">4. Deportes y Fútbol</span>  
-Análisis de datos de jugadores de Futbol, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
-🔗 [Dataset: Futbol Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
+Análisis de datos de jugadores de fútbol, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
+🔗 [Dataset: FIFA Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
 
 ### <span style="color:blue">5. Noticias y Desastres Naturales (Incendios)</span>  
 Dataset sobre incendios en California, con datos históricos y visualizaciones sobre su impacto.  
 🔗 [Dataset: California Wildfire Data](https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data)  
+
+---
+
+## 📂 [Documentación](./Documentacion)  
+Contiene:  
+✅ Cronograma de actividades del proyecto  
+✅ Ideas positivas que se presentarán en el proyecto  
+✅ Informe del proyecto  
+
+---
+
+## 📂 [Proyecto Final](./PROYECTO%20FINAL)  
+Enlace a OneDrive con los datasets debido a restricciones de tamaño en GitHub.  
 
 ---
 
