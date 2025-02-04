@@ -15,7 +15,7 @@ Contiene información actualizada sobre ataques de ciberseguridad, recopilada de
 🔗 [Dataset: Cybersecurity Attacks](https://www.kaggle.com/search?q=updated+cybersecurity+attacks)  
 
 ### <span style="color:blue">4. Deportes y Fútbol</span>  
-Análisis de datos de jugadores de FIFA, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
+Análisis de datos de jugadores de Futbol, con información sobre sus atributos y desempeño. Incluye scripts para análisis y visualización.  
 🔗 [Dataset: FIFA Players](https://www.kaggle.com/datasets/joebeachcapital/fifa-players?select=male_teams_23.csv)  
 
 ### <span style="color:blue">5. Noticias y Desastres Naturales (Incendios)</span>  
