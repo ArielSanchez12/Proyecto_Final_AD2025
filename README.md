@@ -51,9 +51,9 @@ Enlace a OneDrive con los datasets debido a restricciones de tamaño en GitHub.
 
 ---
 
-# Arquitectura
+## Arquitectura
 
---
+![Arquitectura de la Solución](./Arquitectura_de_la_solucion.png)
 
 
 
