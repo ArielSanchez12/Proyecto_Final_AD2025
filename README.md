@@ -21,3 +21,13 @@ Análisis de datos de jugadores de Futbol, con información sobre sus atributos 
 ### <span style="color:blue">5. Noticias y Desastres Naturales (Incendios)</span>  
 Dataset sobre incendios en California, con datos históricos y visualizaciones sobre su impacto.  
 🔗 [Dataset: California Wildfire Data](https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data)  
+
+---
+
+## <span style="color:blue">Videos Explicativos</span>
+
+🎥 **Explicación del proceso de recopilación de datos**  
+📌 [Ver video en YouTube](https://youtu.be/0-wUmSFA1o0)  
+
+🎥 **Explicación de las conclusiones de los dashboards**  
+📌 [Ver video en YouTube](https://youtu.be/yht2iffxpoI)  
