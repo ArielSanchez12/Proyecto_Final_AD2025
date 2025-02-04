@@ -31,7 +31,7 @@ Dataset sobre incendios en California, con datos históricos y visualizaciones s
 ## 📂 [Documentación](./Documentacion)  
 Contiene:  
 ✅ Cronograma de actividades del proyecto  
-✅ Ideas positivas que se presentarán en el proyecto  
+✅ Diapositivas que se presentarán en el proyecto  
 ✅ Informe del proyecto  
 
 ---
