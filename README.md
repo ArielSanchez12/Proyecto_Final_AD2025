@@ -48,3 +48,18 @@ Enlace a OneDrive con los datasets debido a restricciones de tamaño en GitHub.
 
 🎥 **Explicación de las conclusiones de los dashboards**  
 📌 [Ver video en YouTube](https://youtu.be/yht2iffxpoI)  
+
+---
+
+# Arquitectura
+
+--
+
+
+
+
+
+
+
+
+
